@@ -11,3 +11,4 @@
  include "core/engine.php";
 
 ?>
+Not installed > Run Installer: <a href="core/panel">Y</a> / <a href="#">N</a>
