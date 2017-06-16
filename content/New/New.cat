@@ -1,0 +1,18 @@
+{
+  "categories": {
+    "script": "Scripting and stuff",
+    "php": "Php",
+    "script_c": [
+      "php"
+    ]
+  },
+  "posts": {
+    "script": [
+      "test",
+      "hello-world"
+    ],
+    "php": [
+      "test"
+    ]
+  }
+}
