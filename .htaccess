@@ -1,0 +1,7 @@
+ErrorDocument 403 "Nothing here
+
+Options -Indexes
+
+<Files ~ "^.*\.cms|\.conf|\.tpl">
+  Deny from all
+</Files>
