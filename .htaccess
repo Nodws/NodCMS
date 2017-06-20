@@ -1,4 +1,5 @@
-ErrorDocument 403 "Nothing here
+ErrorDocument 403 "Nothing to see here folks.
+ErrorDocument 404 "Houston, We Have A Problem.
 
 Options -Indexes
 
